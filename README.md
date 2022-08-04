@@ -1,5 +1,5 @@
 # online-banking-System
-Here user can register them salves and admin verify their account, once admin verify the account user can login and send money to other account, change username and password. Admin can edit user details, deposit and withdraw money, close account.
+Here user can register Themselves and admin verify their account, once admin verify the account user can login and send money to other account, change username and password. Admin can edit user details, deposit and withdraw money, close account.
 
 
 For Data base i use mysql and for server Apache tomcat 9
